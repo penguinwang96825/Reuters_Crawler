@@ -14,12 +14,15 @@ from selenium.webdriver.support import expected_conditions as EC
 class ReutersSpider(scrapy.Spider):
     name = "reuters"
 
-    def __init__(self, search="Apple Inc.", *args, **kwargs):
-        self.file_name = search.lower().replace(' ', '_')
-        self.url = f"https://reuters.com/search/news?sortBy=&dateRange=&blob={search.replace(' ', '+')}"
+    def __init__(self, *args, **kwargs):
+        pass
 
     def start_requests(self):
-        yield SeleniumRequest(url=self.url, callback=self.parse)
+        search_list = ["Home Depot Inc", "Mastercard Inc", "UnitedHealth Group Inc"]
+        for search in search_list: 
+            self.file_name = search.lower().replace(' ', '_').replace('.', '_')
+            self.url = f"https://reuters.com/search/news?sortBy=&dateRange=&blob={search.replace(' ', '+')}"
+            yield SeleniumRequest(url=self.url, callback=self.parse)
 
     def parse(self, response):
         driver = response.request.meta['driver']
