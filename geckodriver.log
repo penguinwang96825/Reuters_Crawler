@@ -1,0 +1,107 @@
+1596136110830	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofile6xtKoI"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136112644	Marionette	INFO	Listening on port 52002
+1596136112880	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136113346	Marionette	INFO	Stopped listening on port 52002
+JavaScript error: resource://gre/modules/UrlClassifierListManager.jsm, line 691: TypeError: this.tablesData[table] is undefined
+1596136272136	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofilebzD1no"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136273778	Marionette	INFO	Listening on port 52058
+1596136274191	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136274703	Marionette	INFO	Stopped listening on port 52058
+1596136330397	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofilewfNeoG"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136332059	Marionette	INFO	Listening on port 52111
+1596136332444	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136332962	Marionette	INFO	Stopped listening on port 52111
+1596136418076	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofileaTKBox"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136419697	Marionette	INFO	Listening on port 52167
+1596136420121	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136420552	Marionette	INFO	Stopped listening on port 52167
+1596136756159	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofilehBZgGL"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136757802	Marionette	INFO	Listening on port 52235
+1596136758214	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136758761	Marionette	INFO	Stopped listening on port 52235
+1596136785796	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofilewMdX4r"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136787477	Marionette	INFO	Listening on port 52280
+1596136787850	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136788327	Marionette	INFO	Stopped listening on port 52280
+1596136846982	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofileWth7ls"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596136848754	Marionette	INFO	Listening on port 52409
+1596136849012	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596136849444	Marionette	INFO	Stopped listening on port 52409
+1596137012327	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofile0eI4Jc"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596137013983	Marionette	INFO	Listening on port 52474
+1596137014356	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596137014850	Marionette	INFO	Stopped listening on port 52474
+1596140421177	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofileFYeniz"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596140422860	Marionette	INFO	Listening on port 52629
+1596140423238	Marionette	WARN	TLS certificate errors will be ignored for this session
+1596140423693	Marionette	INFO	Stopped listening on port 52629
+console.error: Region.jsm: "Error fetching region" (new TypeError("NetworkError when attempting to fetch resource.", ""))
+console.error: Region.jsm: "Failed to fetch region" (new Error("NO_RESULT", "resource://gre/modules/Region.jsm", 343))
+1596140495774	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "-marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\MYKOLA~1\\AppData\\Local\\Temp\\rust_mozprofilemoWxSp"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596140497322	Marionette	INFO	Listening on port 52702
+1596140497819	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 784: TypeError: arrayAds[0] is undefined
+1596140502893	Marionette	INFO	Stopped listening on port 52702
+1596640741172	geckodriver	INFO	Listening on 127.0.0.1:60364
+1596640833485	geckodriver	INFO	Listening on 127.0.0.1:60392
+1596641439500	geckodriver	INFO	Listening on 127.0.0.1:60520
+1596641981919	geckodriver	INFO	Listening on 127.0.0.1:60704
+1596641984972	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jimmy\\AppData\\Local\\Temp\\rust_mozprofilep2c4Qj"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596641986007	Marionette	INFO	Listening on port 60712
+1596641986478	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 784: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138317127408&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=mpu&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138317127408&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=mpu&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138317127408&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=mpu&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138317127408&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=mpu&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+1596642037657	Marionette	INFO	Stopped listening on port 60712
+1596642194550	geckodriver	INFO	Listening on 127.0.0.1:61026
+1596642197580	mozrunner::runner	INFO	Running command: "C:\\Program Files\\Mozilla Firefox\\firefox.exe" "--marionette" "-headless" "-foreground" "-no-remote" "-profile" "C:\\Users\\jimmy\\AppData\\Local\\Temp\\rust_mozprofile6XkYjC"
+*** You are running in headless mode.
+JavaScript error: resource://gre/modules/XULStore.jsm, line 66: Error: Can't find profile directory.
+console.error: SearchCache: "_readCacheFile: Error reading cache file:" (new Error("", "(unknown module)"))
+1596642198634	Marionette	INFO	Listening on port 61034
+1596642199085	Marionette	WARN	TLS certificate errors will be ignored for this session
+JavaScript error: https://www.reuters.com/reuters_gpt_bootstrap.js, line 784: TypeError: arrayAds[0] is undefined
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138318177663&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=leaderboard&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138318177663&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=leaderboard&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138318177663&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=leaderboard&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: WebGL warning: <Create>: Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript warning: https://z.moatads.com/reutersdfpcw319687550988/moatad.js#moatClientLevel1=20067072&moatClientLevel2=2607453244&moatClientLevel3=5377211436&moatClientLevel4=138318177663&moatClientSlicer1=3735912&moatClientSlicer2=11570472&zMoatPS=&zMoatTP=leaderboard&zMoatST=&zMoatARBL=&zMoatStory=&zMoatAU=/4735792/us.reuters/search&zMoatPixelDistance=, line 261: Failed to create WebGL context: WebGL creation failed: 
+* Can't use WebGL in headless mode (https://bugzil.la/1375585).
+JavaScript error: , line 0: NS_ERROR_NOT_AVAILABLE
